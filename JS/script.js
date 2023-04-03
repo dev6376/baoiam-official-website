@@ -13,7 +13,7 @@ window.addEventListener("scroll", function () {
 
 
 $('.carousel').carousel({
-  interval: 7000
+  interval: 3000
 })
 
 
